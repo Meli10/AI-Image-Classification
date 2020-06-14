@@ -1,2 +1,3 @@
 # AI-Image-Classification
-Using Machine Learning I have made an image classification bot that guesses the image you have shown it.
+Using Machine Learning and Python, I have made a basic image classification bot.
+The goal of this bot is to classify what is being shown in a picture with high accuracy. 
